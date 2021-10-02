@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Frutiger Neue LT';
+    src: url('FrutigerNeueLT-Hv.eot');
+    src: local('Frutiger Neue LT Heavy'), local('FrutigerNeueLT-Hv'),
+        url('FrutigerNeueLT-Hv.eot?#iefix') format('embedded-opentype'),
+        url('FrutigerNeueLT-Hv.woff2') format('woff2'),
+        url('FrutigerNeueLT-Hv.woff') format('woff'),
+        url('FrutigerNeueLT-Hv.ttf') format('truetype'),
+        url('FrutigerNeueLT-Hv.svg#FrutigerNeueLT-Hv') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
